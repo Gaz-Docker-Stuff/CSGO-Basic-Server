@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:8
 
 LABEL name="Gareth Williams" \
 version="1.0.0"
